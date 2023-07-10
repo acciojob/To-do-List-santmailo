@@ -1,1 +1,8 @@
 /* Your CSS code here */
+#error {
+  display: none; 
+  color: red;
+  font-size: 12px;
+  font-weight: bold;
+}
+
